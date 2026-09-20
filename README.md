@@ -1,3 +1,5 @@
+## Made by Lorik
+
 # 👀 GitHub Profile Views Counter
 
 Add a simple profile view counter to your GitHub profile in just a few steps!

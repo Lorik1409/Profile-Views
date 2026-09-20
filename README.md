@@ -1,4 +1,4 @@
-## Made by Lorik
+##### Made by Lorik
 
 # 👀 GitHub Profile Views Counter
 
